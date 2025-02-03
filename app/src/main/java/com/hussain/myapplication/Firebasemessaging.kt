@@ -141,6 +141,7 @@ class MyFirebaseMessagingService : FirebaseMessagingService() {
     override fun onMessageReceived(remoteMessage: RemoteMessage) {
         super.onMessageReceived(remoteMessage)
 
+        val a: String = "Anurag";
         // Handle the message
         remoteMessage.notification?.let {
             Log.d("FCM", "Message Notification Title: ${it.title}")
