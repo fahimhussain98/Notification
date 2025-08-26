@@ -39,7 +39,8 @@ apis.com/robot/v1/metadata/x509/firebase-adminsdk-b30n5%40myapplication-bbee5.ia
 
 _________________________________________________________________________________________________________________________________________________
 #.    see the image of the Notification on andorid phone
-#.    ![Uploading notification.jpeg…]()
+   
+![Uploading notification.jpeg…]()
 
 
 
