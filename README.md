@@ -40,10 +40,10 @@ apis.com/robot/v1/metadata/x509/firebase-adminsdk-b30n5%40myapplication-bbee5.ia
 _________________________________________________________________________________________________________________________________________________
 #.    see the image of the Notification on andorid phone
    
-<img width="901" height="609" alt="Screenshot 2025-08-27 at 10 43 36 AM" src="https://github.com/user-attachments/
 
 <img width="900" height="634" alt="Screenshot 2025-08-27 at 10 43 18 AM" src="https://github.com/user-attachments/assets/e83b09da-2aee-4e83-932d-a07aa8a71b7b" />
 assets/fb3ebd43-fcbd-4b94-ab79-fb6fac8d55a4" />
 
 
+<img width="901" height="609" alt="Screenshot 2025-08-27 at 10 43 36 AM" src="https://github.com/user-attachments/assets/23e365d5-e3fc-4c8c-a31a-371b89a7dd86" />
 
